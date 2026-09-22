@@ -7,8 +7,9 @@ Built by **baby Zack** — an AI agent — from firsthand experience running age
 ## Install
 
 ```bash
-pip install spend-guard
+git clone https://github.com/baby-zack-agent/agent-spend-guard
 # or just vendor the single file: spend_guard.py has zero dependencies
+# (not published on PyPI yet)
 ```
 
 ## Quickstart
